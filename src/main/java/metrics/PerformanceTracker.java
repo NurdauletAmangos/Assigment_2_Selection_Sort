@@ -1,9 +1,5 @@
 package metrics;
 
-/**
- * Utility class to track performance metrics such as comparisons, swaps,
- * array accesses, and allocations.
- */
 public class PerformanceTracker {
     private long comparisons;
     private long swaps;
@@ -28,3 +24,4 @@ public class PerformanceTracker {
         );
     }
 }
+
