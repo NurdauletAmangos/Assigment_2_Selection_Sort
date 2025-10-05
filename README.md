@@ -34,3 +34,9 @@ src/
 │ └─ cli/BenchmarkRunner.java
 ├─ test/java/
   └─ algorithms/SelectionSortTest.java
+
+## Author
+
+Student B (Selection Sort) - Amangos Nurdaulet
+
+
